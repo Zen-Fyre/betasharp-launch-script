@@ -23,3 +23,10 @@ Nothing much, it's just QoL and it's not necessary since pretty much all it does
   * Click on edit
   * Go wild 😈
 ###### I don't really expect anyone tech unsavy to check this tool, but you can modify anything past the SET "XXXXXXXXXXX=true"
+
+
+
+
+
+###### This is a idea from my brother, I had no intention for releasing this just like my previous scripts.
+###### Mostly a excuse to learn how to use GitHub
