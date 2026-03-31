@@ -13,7 +13,7 @@ Nothing much, it's just QoL and it's not necessary since pretty much all it does
 
 ## #How to use?
   * Get [Batch File](Launch-BetaSharp.bat) (review my stinky code if you wish)
-  * Click on download on the top left<br/>
+  * Click on download on the ***TOP LEFT***<br/>
 <img width="229" height="53" alt="image" src="https://github.com/user-attachments/assets/d3fb5a72-6518-4685-acb2-f0b71695d044" /><br/>
   * Move it inside [BetaSharp](https://github.com/betasharp-official/betasharp) folder alongside BetaSharp.Launcher<br/>
     <img width="616" height="159" alt="image" src="https://github.com/user-attachments/assets/26ceaf37-1f56-44d9-9998-15a77349853d" />
