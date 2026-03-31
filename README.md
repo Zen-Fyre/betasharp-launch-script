@@ -2,7 +2,7 @@
 Backup\Launch tool for [BetaSharp](https://github.com/betasharp-official/betasharp) ( Minecraft Beta 1.7.3 written in C# )
 
 
-Nothing much, it's just QoL and it's not necessary since pretty much all it does is run "cd BetaSharp.Launcher && dotnet run --configuration Release" with a few extra steps
+Nothing much, it's just QoL and it's not necessary since pretty much all it does is run `cd BetaSharp.Launcher && dotnet run --configuration Release` with a few extra steps
 
 ## #What does it do?
   * ✨Double click to start ✨
