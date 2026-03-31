@@ -26,7 +26,7 @@ Nothing much, it's just QoL and it's not necessary since pretty much all it does
 
 ## #Where are my Backups?
   By default it should be in `%appdata%\.BetaSharp\savesBackup` you can paste that in `Win + R`<br/>
-  Also by default inside that folder should be the .zips of the whole `save` folder using the following naming scheme `saves-dd-MM-yyyy_HH-mm-ss.zip` for example `saves-31-10-2025_12-59-31`
+  Also by default inside that folder should be the .zips of the whole `save` folder using the following naming scheme `saves-dd-MM-yyyy_HH-mm-ss.zip` for example `saves-31-10-2025_12-59-31.zip`
   
   > dd=Day<br/>
   MM=Month<br/>
