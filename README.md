@@ -14,7 +14,7 @@ Nothing much, it's just QoL and it's not necessary since pretty much all it does
 ## #How to use?
   * Get [Batch File](https://github.com/Zen-Fyre/betasharp-launch-script/releases/download/Stable/Launch_BetaSharp.bat) (review my stinky code if you wish)
   * Put it inside [BetaSharp](https://github.com/betasharp-official/betasharp) folder alongside BetaSharp.Launcher
-  * Configure it as you wish (Please check [#How-to-configure](https://github.com/Zen-Fyre/betasharp-launch-script/tree/main?tab=readme-ov-file#how-to-configure-not-required))
+  * Configure it as you wish (Please check [#How-to-configure](https://github.com/Zen-Fyre/betasharp-launch-script/tree/main?tab=readme-ov-file#how-to-configure))
 
 ## #How to configure
 ###### <sub>(Not required)</sub>
@@ -24,8 +24,21 @@ Nothing much, it's just QoL and it's not necessary since pretty much all it does
 ###### I don't really expect anyone tech unsavy to check this tool's configs specially since it should work out of the box.<br/> but you can modify anything in SET "XXXXXXXXXXX=`true | %appdata%\.betasharp\...`"
 
 
+## #Where are my Backups?
+  By default it should be in `%appdata%\.BetaSharp\savesBackup` you can paste that in `Win + R`<br/>
+  Also by default inside that folder should be the .zips of the whole `save` folder using the following naming scheme `saves-dd-MM-yyyy_HH-mm-ss.zip` for example `saves-31-10-2025_12-59-31`
+  
+  > dd=Day<br/>
+  MM=Month<br/>
+  yyyy=Year<br/>
+  HH=Hour<br/>
+  mm=Minutes<br/>
+  ss=Seconds<br/>
+
+
 <br/>
 <br/>
 <br/>
 
-###### This is a idea from my brother, I had no intention for releasing this just like my previous scripts. Mostly a excuse to learn how to use GitHub at this point
+###### This is a idea from my brother, I had no intention of releasing this just like my previous scripts. Mostly a excuse to learn how to use GitHub at this point
+
